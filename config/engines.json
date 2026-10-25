@@ -1,13 +1,17 @@
 {
   "_help": "Optional metadata per engine (name exactly as rated). 'own': true highlights your engines. 'aliases' merges other PGN names into this one. 'exclude' drops engines entirely.",
   "engines": {
-    "MyEngine 1.0": {
+    "CeylonDemon 3.3": {
       "own": true,
-      "author": "Madushan",
-      "country": "LK",
-      "url": "https://github.com/YOUR-USERNAME/MyEngine",
-      "aliases": ["MyEngine-1.0-avx2", "MyEngine 1.0 64-bit"],
-      "notes": "Example entry - rename or delete."
+      "author": "Madushan Dissanayake"
+    },
+    "Makara 0.4 kb4": {
+      "own": true,
+      "author": "Madushan Dissanayake"
+    },
+    "NARC Next 4.1 NNUE": {
+      "own": true,
+      "author": "Madushan Dissanayake"
     }
   },
   "exclude": []
