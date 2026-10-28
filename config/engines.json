@@ -12,6 +12,10 @@
     "NARC Next 4.1 NNUE": {
       "own": true,
       "author": "Madushan Dissanayake"
+    },
+    "Makara 0.4 kb64": {
+      "own": true,
+      "author": "Madushan Dissanayake"
     }
   },
   "exclude": []
